@@ -1,2 +1,2 @@
 # git-repository
-Just another repository
+hello humans！
